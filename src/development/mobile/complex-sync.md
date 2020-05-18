@@ -1,6 +1,7 @@
 ---
 summary: Best Practices for an optimized data synchronization on mobile applications.
 tags: best-practices, mobile, mobile-sync
+en_title: Guide to Handle Optimized Complex Synchronization on Mobile Devices
 ---
 
 # Handling Optimized Complex Synchronization on Mobile Devices
@@ -8,7 +9,6 @@ tags: best-practices, mobile, mobile-sync
 This article describes Best Practices to deal with more demanding synchronization scenarios and explains how to optimize resources.
 
 When syncing information from the server to the device it’s important to only synchronize relevant data. On each use case, consider which records (rows) and attributes (columns) should be synchronized, and when to sync.
-On each use case, consider which records (rows) and attributes (columns) should be synchronized, and when to sync.
 
 <table markdown="1" class="os-invisible-table">
 <tr>
